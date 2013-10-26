@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBMotorController", "USBMotorController.csproj", "{6699AB38-1BA6-475A-9C21-DD97A9B59F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6699AB38-1BA6-475A-9C21-DD97A9B59F63}.Debug|x86.ActiveCfg = Debug|x86
+		{6699AB38-1BA6-475A-9C21-DD97A9B59F63}.Debug|x86.Build.0 = Debug|x86
+		{6699AB38-1BA6-475A-9C21-DD97A9B59F63}.Release|x86.ActiveCfg = Release|x86
+		{6699AB38-1BA6-475A-9C21-DD97A9B59F63}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
